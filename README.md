@@ -23,11 +23,9 @@ Capacitor `C_var` is varied to observe its effect on oscillation frequency. The 
 
 ## 📷 Screenshots
 ### Schematic
-![Schematic](schematic/fivestageringoscillator.png)
-
+![Image](https://github.com/user-attachments/assets/eb83d9e5-3876-40d8-ab41-62fa0b8b329a)
 ### Parametric Sweep
-![Parametric](waveforms/Parametric_5r.png)
-
+![Image](https://github.com/user-attachments/assets/1c50a05f-9b83-46fd-a2ac-c09fce2cccd0)
 ---
 
 ## 🧪 Sim Results (Summary)
