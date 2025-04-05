@@ -50,9 +50,11 @@ Tools used:
 
 Several simulation snapshots were obtained to validate the design:
 
-- **Transient Analysis:**
-  - Output waveform exhibits periodic square wave oscillation.
-  - Time period and frequency were extracted from the waveform.
+- **Transient Analysis:**Transient analysis is employed to see the time-domain output of the ring oscillator. In this 5-stage CMOS ring oscillator, the transient response illustrates a periodic oscillation due to propagation delay across every inverter stage. When simulated, the output waveform illustrates a stable and repeatable oscillation, which confirms the self-sustaining characteristic of the ring oscillator.
+
+As observed in the simulation result, the output voltage alternates between high and low levels with a regular period. This verifies the intended operation of the ring oscillator, in which the feedback loop makes the signal invert and move continuously, resulting in an oscillating waveform. The frequency of oscillation relies on the number of stages and the delay per stage, depending on the load capacitance and transistor size.
+
+The temporary plot indicates definite periodic waveforms for the delay through each of the 5 inverters within the loop, and the waveform remains consistent with time.
 - **Parametric Sweep:**
   - Delay and frequency were analyzed as design parameters (W/L ratios, capacitance, etc.) were varied.
 
