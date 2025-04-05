@@ -4,15 +4,15 @@ Simulation and analysis of a 5-stage CMOS ring oscillator using Cadence Virtuoso
 
 This project demonstrates the design, simulation, and analysis of a 5-stage ring oscillator using **Cadence Virtuoso** and **Spectre Simulator**.
 
-## 🔧 Tools Used
+##  Tools Used
 - Cadence Virtuoso (ADE L)
 - Spectre for simulation
 - GPDK 90nm PDK
 
-## 🧠 Objective
+## Objective
 To design a 5-stage CMOS ring oscillator and analyze the frequency variation using **parametric sweep** of capacitance.
 
-## 📂 Project Structure
+## Project Structure
 - `schematic/` – Circuit diagram
 - `waveforms/` – Transient and parametric waveform outputs
 - `results/` – Notes on frequency, voltage levels, delay, etc.
