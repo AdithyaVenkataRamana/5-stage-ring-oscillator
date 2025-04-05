@@ -24,7 +24,11 @@ Capacitor `C_var` is varied to observe its effect on oscillation frequency. The 
 ## 📷 Screenshots
 ### Schematic
 ![Image](https://github.com/user-attachments/assets/eb83d9e5-3876-40d8-ab41-62fa0b8b329a)
+
+### Transicent analysis
+![Image](https://github.com/user-attachments/assets/3dd197c8-4ea6-4aac-940f-ddad81b8869e)
 ### Parametric Sweep
+![Image](https://github.com/user-attachments/assets/a605ec21-90fe-4f8e-8434-d4f7a6e38756)
 ![Image](https://github.com/user-attachments/assets/1c50a05f-9b83-46fd-a2ac-c09fce2cccd0)
 ---
 
